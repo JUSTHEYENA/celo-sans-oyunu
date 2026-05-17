@@ -1,0 +1,18 @@
+https://6a0a3cbc0d9824e458051dff--gleaming-travesseiro-459ade.netlify.app/
+{
+  "accountAssociation": {
+    "header": "eyJhbGciOiJFUzI1NksiLCJ0eXAiOiJKV1QifQ",
+    "payload": "eyJkb21haW4iOiJzZW5pbi1uZXRsaWZ5LWxpbmtpbi5uZXRsaWZ5LmFwcCJ9",
+    "signature": "MHQCIH3..."
+  },
+  "frame": {
+    "version": "1",
+    "name": "Celo Hazine Avi",
+    "iconUrl": "https://celo.org/favicon.ico",
+    "homeUrl": "https://senin-netlify-linkin.netlify.app",
+    "imageUrl": "https://celo.org/gorsel.png",
+    "buttonTitle": "Oyna",
+    "splashImageUrl": "https://celo.org/splash.png",
+    "splashBackgroundColor": "#121212"
+  }
+}
